@@ -1,0 +1,6 @@
+C:\Users\afifa\Downloads\bleck\arif apii\WebApplication1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\afifa\Downloads\bleck\arif apii\WebApplication1\obj\Debug\net10.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afifa\Downloads\bleck\arif apii\WebApplication1\obj\Debug\net10.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\afifa\Downloads\bleck\arif apii\WebApplication1\obj\Debug\net10.0\WebApplication1.AssemblyInfo.cs
+C:\Users\afifa\Downloads\bleck\arif apii\WebApplication1\obj\Debug\net10.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\afifa\Downloads\bleck\arif apii\WebApplication1\obj\Debug\net10.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
